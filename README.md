@@ -1,6 +1,6 @@
 ##Screenshoot
 
-![Sumraj Desktop Demo](![Screenshot (5)](<img width="499" height="900" alt="Screenshot 2025-11-08 093147" src="https://github.com/user-attachments/assets/da2ccf85-ca32-4ae0-aefa-825b0e13adc1" />
+![Sumraj Desktop Demo](![Screenshot (5)](https://github.com/Sumrajsaha/Ecommerce_app_Flutter/blob/main/Screenshot%202025-11-08%20093147.png
 )
 
 ")
@@ -20,5 +20,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
